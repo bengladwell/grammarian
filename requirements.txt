@@ -1,0 +1,6 @@
+spacy
+sqlalchemy
+sqlalchemy_mixins
+pylint
+flake8
+pytest
